@@ -1,0 +1,108 @@
+[
+    {
+        "idpeliculas": 1,
+        "titulos": "El viaje de Chihiro",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/ByXuk9QqQkk?si=3hMH74dCgFSnzcjB",
+        "anio": 2001,
+        "genero": "Aventura",
+        "director": "Hayao Miyazaki",
+        "description": "Durante el traslado de su familia a los suburbios, una niña de 10 años se adentra en un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se transforman en bestias."
+    },
+    {
+        "idpeliculas": 2,
+        "titulos": "Parasite",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/5xH0HfJHsaY?si=GeHs8wvkcLIlG--r",       
+        "anio": 2019,
+        "genero": "Suspenso",
+        "director": "Bong Joon Ho",
+        "description": "La codicia y la discriminación de clases amenazan la recién formada relación simbiótica entre la rica familia Park y el indigente clan Kim."
+    },
+    {
+        "idpeliculas": 3,
+        "titulos": "Avengers: Endgame",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/TcMBFSGVi1c?si=CgxxZ0u-vbrORy0M",       
+        "anio": 2019,
+        "genero": "Acción ",
+        "director": "Anthony Russo",
+        "description": "Tras los devastadores acontecimientos de Vengadores: Infinity War (2018), el universo está en ruinas. Con la ayuda de los aliados restantes, los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restablecer el equilibrio del universo."
+    },
+    {
+        "idpeliculas": 4,
+        "titulos": "3 Idiots",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY562_CR5,0,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/xvszmNXdM4w?si=HeLTeRJ6hLZd-X2K",
+        "anio": 2009,
+        "genero": "Comedia  ",
+        "director": "Rajkumar Hirani",
+        "description": "Dos amigos buscan a su compañero perdido hace mucho tiempo. Vuelven a visitar sus días universitarios y recuerdan los recuerdos de su amigo que los inspiró a pensar de manera diferente, incluso cuando el resto del mundo los llamaba idiotas."
+
+    },
+    {
+        "idpeliculas": 5,
+        "titulos": "Joker",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/zAGVQLHvwOY?si=nHrQ309v4Pk9YIGq",
+        "anio": 2019,
+        "genero": "Crimen",
+        "director": "Todd Phillips",
+        "description": "Un comediante con problemas mentales se embarca en una espiral descendente que lo lleva a la creación de un villano icónico."
+
+    },
+    {
+        "idpeliculas": 6,
+        "titulos": "Your Name.",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/xU47nhruN-Q?si=ndLMUFiNKN_05Hwu",
+        "anio": 2016,
+        "genero": "Fantasía",
+        "director": " Makoto Shinkai",
+        "description": "Dos extraños se encuentran vinculados de una manera extraña. Cuando se forme una conexión, ¿será la distancia lo único que los mantendrá separados?"
+
+    },
+    {
+        "idpeliculas": 7,
+        "titulos": "Oppenheimer",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/uYPbbksJxIg?si=3Mkc-w1lvfazqW_v",
+        "anio": 2023,
+        "genero": "Biografía ",
+        "director": " Christopher Nolan",
+        "description": "La historia del científico estadounidense J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica."
+
+    },
+    {
+        "iidpeliculasd": 8,
+        "titulos": "Tumba de las luciérnagas",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/4vPeTSRd580?si=BjMSEiV_ayon0MZr",
+        "anio": 1988,
+        "genero": "Historico ",
+        "director": "Isao Takahata",
+        "description": "Un niño y su hermana pequeña luchan por sobrevivir en Japón durante la Segunda Guerra Mundial."
+    },
+    {
+        "idpeliculas": 9,
+        "titulos": "WALL-E",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/CZ1CATNbXg0?si=J3t4JkwnVBEG833n",
+        "anio": 2008,
+        "genero": "Aventura  ",
+        "director": "Andrew Stanton",
+        "description": "En un futuro lejano, un pequeño robot recolector de residuos se embarca sin querer en un viaje espacial que, en última instancia, decidirá el destino de la humanidad."
+
+    },
+    {
+        "idpeliculas": 10,
+        "titulos": "El rey León",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+        "trailerUrl": "https://youtu.be/eHcZlPpNt0Q?si=YzMyDYzHdikKceqF",
+        "anio": 1994,
+        "genero": "Aventura ",
+        "director": "Roger Allers",
+        "description": "El príncipe león Simba y su padre son el objetivo de su amargado tío, que quiere ascender él mismo al trono."
+
+    }
+]
